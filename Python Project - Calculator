@@ -1,0 +1,22 @@
+Project - Calculator
+Let us build a simple calculator. Click on 'RUN' to see how the Project functions.
+
+We have built a simple Calculator which has Addition and Subtraction functions - you will code it out in this module.
+
+Display initial message
+Perfect - Let us begin.
+
+We will break down our code into multiple sections.
+
+The 1st component of your code needs to be the section defining the project.
+
+Task
+Write the code to output the following to the console.
+
+Welcome to Calculator
+
+Choose one operation:
+1. Add
+2. Subtract
+3. Exit
+Note: To write multi-line strings in Python, we use """ (three quotes) to start and end the string.

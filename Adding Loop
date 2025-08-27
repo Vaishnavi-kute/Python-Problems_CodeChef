@@ -1,0 +1,11 @@
+Adding the loop
+Great going so far.
+
+Did you notice that your calculator runs the operation only once?
+
+Let us update the code to ensure that we are able to perform multiple operations.
+
+Task
+We have added a while loop to your code.
+
+Update the code in the IDE to ensure that the loop exits / Calculator operation stops only when defined by you by using the 'break' clause
